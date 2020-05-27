@@ -1,6 +1,6 @@
 # Build settings
 # Gems
-gems: 
+gems:
 - jekyll-paginate
 - jekyll-feed
 
@@ -11,7 +11,7 @@ gems:
 #baseurl: "/projectname"
 url: ""
 enforce_ssl: ""
-baseurl: "/marc-pleiades"
+baseurl: "/isaw-new-titles-map"
 
 # Title of website
 title: ISAW Library Map-Based Discovery Demo
@@ -32,16 +32,16 @@ avatar: "/img/avatar.jpg"
 nav-links:
   Home: ""
 #  About Me: "aboutme"
-#  Contact: "contact"  
-  
+#  Contact: "contact"
+
 # --- Footer options --- #
 
-# If the values are empty, they are ignored 
+# If the values are empty, they are ignored
 profile:
   name: Patrick J. Burns
   email: pjb311@nyu.edu
 #  facebook: your-fb-id
-  github: diyclassics 
+  github: diyclassics
 #  twitter: your-twitter-id
 #  linkedin: your-linkedin-id
 #  stackoverflow: your-stackoverflow-id
